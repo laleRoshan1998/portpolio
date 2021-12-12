@@ -1,0 +1,341 @@
+/* header */
+
+.header {
+    padding: 10px;
+    background-color:blueviolet;
+    color:white;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.4rem; 
+
+    /* margin-left: 8.5rem;
+    margin-right: 8.5rem; */
+    
+}
+
+.matha{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.title{
+    text-size-adjust:10px;
+    margin-left: 1em;
+    padding-top: 3px;
+}
+
+.nav a {
+    text-align: right;
+    color: white; 
+    display: inline-block;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.nav {
+    text-align: right;
+    text-decoration: none;
+
+}
+
+.image{
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 4rem
+
+    
+}
+
+
+
+.index {
+    text-align: center;
+    background-color: #E5E7EB;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 2rem;
+    font-size: 18px;
+}
+
+.para {
+    text-align: center;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 4rem;
+    font-size: 18px;
+
+}
+
+.pari {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 1rem;
+    padding: 4px 1rem;
+    background-color:#6D28D9;
+    color:#fff
+}
+
+
+.blogs {
+    text-align: center;
+    background-color: #E5E7EB;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 2rem;
+    font-size: 18px;
+}
+
+.blog {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 2px 1rem;
+    border: solid;
+    background-color: #6D28D9;
+    color: #EDE9FE;
+    
+    
+}
+
+
+.footers {
+    text-align: center; 
+    background-color: blueviolet;
+    color: #F3F4F6;
+    border-top-right-radius:2rem;
+    padding: 2rem; 
+    /* margin: 4rem;  */
+    margin-bottom: 0;
+    margin-top: 5rem;
+    border-bottom: 5rem;
+    padding-bottom: 2rem;
+    bottom: 0%;
+    font-size: 1rem;
+}
+.footer_link{
+    padding: 2rem;
+    color: #fff;
+    font-size: 23px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* projects .blogs */
+
+.bichat{text-align: center;}
+
+
+.see{font-size: 25px;
+    text-align: center;
+    padding: 4rem;}
+
+
+
+.rang{background-color: #E5E7EB;
+        border-radius: 2rem;
+        margin-left: 25rem;
+        margin-right: 25rem;
+        padding: 2rem;
+        font-size: 18px;
+
+}
+
+.button-viwe-project{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+
+.khali{border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 4rem;
+    font-size: 18px;
+}
+
+.link1{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    margin-right: 2rem;
+    background-color: #3B82F6;
+    color: #fff;
+    border: none;
+}
+
+.link1:hover{
+    background-color: red;
+}
+
+.link1:active{
+    background-color: green;
+}
+
+.link2:hover{
+    background-color: yellow;
+}
+
+
+.link2{text-decoration: none;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    margin-right: 2rem;
+    border:none;
+    background-color: aqua;
+    color: blue;
+    
+}
+
+
+/* .blogs */
+
+.my_blog {
+    text-align: center;
+    /* padding: 5rem; */
+    padding-top:  2rem;
+    font-size: 35px;
+}
+
+.second {
+    text-align: center;
+    margin: 0 18rem;
+    /* background-color: yellow; */
+    padding: 4rem;
+}
+
+small{
+    font-size: 1.3rem;
+}
+
+.second p{
+    font-size: 1.7rem;
+    line-height: 3rem;
+}
+
+.second h2{
+    font-size: 2.6rem;
+}
+
+.one_blog {
+    border-radius: 2rem;
+    /* margin-left: 25rem;
+    margin-right: 25rem; */
+    padding: 4rem;
+    font-size: 18px;
+
+}
+
+.thrd_link {
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid #818CF8;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    /* margin-right: 1rem; */
+    background-color: #3B82F6;
+    color: #fff;
+    margin-top: 2rem !important;
+}
+  
+
+
+/* culture */
+
+
+.wari {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.wari h1{
+    font-size: 2.7rem;
+    font-weight: 700;
+}
+
+.ganesh {
+    text-align: center;
+}
+
+
+/* Happyj.html */
+
+.dance {
+    /* background-color: yellow; */
+    margin: 3rem  20rem;
+    padding: 2rem;
+    box-shadow: 3px 3px rgba(128, 128, 128, 0.466), -1em 0 .4em rgba(128, 128, 0, 0.473);
+}
+.dance p{
+    font-size: 1.7rem;
+}
+.dance h1 {
+    font-size: 2.7rem;
+}
+
+.festival {
+    padding-bottom: 2rem;
+}
+.dance img{
+    width: 35rem;
+    height:20rem ;
+    border-radius: 1.5rem;
+}
+
+.festival {
+    text-align: center;
+}
+
+.govida {
+    text-align: center;
+}
+
+.container-in-blog{
+    /* background-color: yellow; */
+    margin: 2rem 20rem;
+    padding: 2rem 3rem;
+    /* border: 1px solid red; */
+    box-shadow: 12px 3px rgba(128, 128, 128, 0.26), -1em 0 .4em rgba(128, 128, 0, 0.411);
+}
+
+.container-in-blog p{
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.image-vari{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    padding-bottom: 2rem;
+}
+
+
+.image-vari img{
+    width: 350px;
+    height: 300px;
+    border-radius: 2rem;
+}
